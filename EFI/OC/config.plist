@@ -1147,6 +1147,7 @@
 		<dict>
 			<key>AppleDebug</key>
 			<true/>
+			<false/>
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
@@ -1262,6 +1263,7 @@
 				<data>Rg==</data>
 				<key>boot-args</key>
 				<string>alcid=24</string>
+				<string>alcid=77</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1415,6 +1417,7 @@
 			<false/>
 			<key>MaximumGain</key>
 			<integer>-15</integer>
+			<integer>0</integer>
 			<key>MinimumAssistGain</key>
 			<integer>-30</integer>
 			<key>MinimumAudibleGain</key>
