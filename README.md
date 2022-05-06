@@ -1,6 +1,9 @@
-# 14-al061nr-hackintosh
+# 14-al061nr hackintosh
 HP Pavilion Laptop Hackintosh EFI (OpenCore - Intel Skylake)
-MacAddress and Serial Number are random, please re-set before use.  This EFI mostly works(refer to the disclaimer), and I have been using this machine daily for about a month.  I replaced the 512g, 5400RPM drive with a 240g PNY SSD. 8GB in single channel memory results in a useable machine, adding a second stick of ram has a noticible decrease in battery life.
+
+<div align="center"> **MacAddress and Serial Number are random, please re-set before use.** </div>  
+
+This EFI mostly works(refer to the disclaimer), and I have been using this machine daily for about a month.  I replaced the 512g, 5400RPM drive with a 240g PNY SSD. 8GB in single channel memory results in a useable machine, adding a second stick of ram has a noticible decrease in battery life.
 
 ## Hardware ##
 
