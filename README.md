@@ -34,6 +34,6 @@ Please refer to this guide https://dortania.github.io/OpenCore-Install-Guide/ be
 
 [1] Audio at full volume is still quiet for output(roughly 50% of manjaro while at 100%).  Microphone works at normal volume.  Using airpods or wired headphones results in adequate volume levels.  The speakers are what have reduced maximum volume.   
 
-[2] Battery Life is about 1.3 hours.  I recieved the laptop in a poor state. It was roughly 2 hours in Manjaro for comparision.  I believe the laptop wakes periodically, even when the lid is closed resulting in slightly worse battery life.  Pstates have been configured.  The machine only charges to ~74%.  Occasionally doesn't charge, battery indicator does not always reflect accurately.  These issues existed in Manjaro/Arch as well.  The powerprofile has been set to that of a macbook air level of preformance to take advantage of the TDP-down powerconsumption of the i3-6100u(7.5 Watts@800MHz instead of 15) on battery.    
+[2] Battery Life is about 5 hours. I replaced the battery with a generic one from eBay, it was worthwhile as it increased the battey life substantially.  Pstates have been configured.  The powerprofile has been set to that of a macbook air level of preformance to take advantage of the TDP-down powerconsumption of the i3-6100u(7.5 Watts@800MHz instead of 15W) on battery.    
 
 [3] Bluetooth does not have an independent toggle for power.  
